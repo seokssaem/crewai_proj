@@ -34,8 +34,8 @@ cohere==5.15.0
 colorama==0.4.6
 coloredlogs==15.0.1
 comm==0.2.2
-crewai
-crewai-tools
+crewai==0.114.0
+crewai-tools==0.40.1
 cryptography==44.0.2
 dataclasses-json==0.6.7
 debugpy==1.8.14
@@ -200,7 +200,6 @@ python-json-logger==2.0.7
 pytube==15.0.0
 pytz==2024.2
 pyvis==0.3.2
-
 PyYAML==6.0.2
 pyzmq==26.4.0
 qdrant-client==1.13.3
@@ -259,7 +258,6 @@ webencodings==0.5.1
 websocket-client==1.8.0
 websockets==15.0.1
 wheel==0.45.1
-
 wrapt==1.17.2
 yarl==1.20.0
 zipp==3.21.0
