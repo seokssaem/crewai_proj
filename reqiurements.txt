@@ -34,8 +34,8 @@ cohere==5.15.0
 colorama==0.4.6
 coloredlogs==15.0.1
 comm==0.2.2
-crewai==0.114.0
-crewai-tools==0.40.1
+crewai
+crewai-tools
 cryptography==44.0.2
 dataclasses-json==0.6.7
 debugpy==1.8.14
