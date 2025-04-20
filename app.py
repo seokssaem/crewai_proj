@@ -1,5 +1,5 @@
 import sys
-import pysqlite3
+import pysqlite3 # type: ignore
 sys.modules["sqlite3"] = pysqlite3
 
 
